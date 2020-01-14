@@ -57,7 +57,7 @@
   "scripts": {
     "start": "gatsby develop",
     "build": "gatsby build --prefix-paths",
-    "deploy": "gh-pages -d public -r https://$GH_TOKEN@github.com/mathewjpallan/developer-docs.git"
+    "deploy": "gh-pages -d public -r https://$GH_TOKEN@github.com/harshavardhanc/developer-docs.git"
   },
   "devDependencies": {
     "gatsby-plugin-remove-trailing-slashes": "^2.1.17",
