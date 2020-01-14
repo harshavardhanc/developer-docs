@@ -29,4 +29,4 @@ jobs:
           command: npm run build
       - run:
           name: Gatsby deploy
-          command: npm run deploy
+          command: sudo npm run deploy
